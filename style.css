@@ -1,5 +1,14 @@
 
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Rubik Beastly', cursive; 
+}
 .toha{
-    color: salmon;
+    color:black;
+    
 
+}
+.ami{
+    background-color:red;
+    border: 1px solid black;
 }
